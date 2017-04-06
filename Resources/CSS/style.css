@@ -1,0 +1,57 @@
+* {
+  font-family: Verdana;
+  background-color: black;
+
+}
+
+
+h1{
+  font-size: 50px;
+  color: white;
+  text-align: center;
+}
+
+h2{
+  font-weight: 300;
+  font-size: 42px;
+  text-align: center;
+}
+
+h3{
+  font-size: 21px;
+  color: grey;
+  text-align: center;
+}
+
+.link {
+  color: Aquamarine;
+  font-size: 16px;
+  text-align: center;
+}
+
+.linkx{
+  text-align: center;
+}
+
+.camp{
+    margin:auto;
+    display:block;
+
+}
+
+.video{
+  margin:auto;
+  display:block;
+}
+
+.phone{
+   margin:auto;
+   display:block;
+}
+
+
+
+.copyright {
+  color: grey;
+  text-align: right;
+}
